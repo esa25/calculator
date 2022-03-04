@@ -1,2 +1,2 @@
 # Calculator
-## Creating a calculator that contain functions for all basic math operators you tyically find on simple calculators 
+### Creating a calculator that contains functions for all basic math operators you tyically find on simple calculator. 
